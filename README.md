@@ -54,8 +54,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [projects.md](ethics-and-professionalism/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="ethics-and-professionalism/members.md" %}
-[members.md](ethics-and-professionalism/members.md)
+{% content-ref url="ethics-and-professionalism/members/" %}
+[members](ethics-and-professionalism/members/)
 {% endcontent-ref %}
 
 {% content-ref url="ethics-and-professionalism/task-lists.md" %}
