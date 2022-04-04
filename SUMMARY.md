@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Preface](README.md)
+* [Why I Chose to Write This Book](why-i-chose-to-write-this-book.md)
 
 ## Introducing Software Engineering
 
